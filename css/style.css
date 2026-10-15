@@ -49,6 +49,7 @@ header > img {
 }
 
 .skip-link {
+  color: var(--surface);
   position: absolute;
   width: 1px;
   height: 1px;
